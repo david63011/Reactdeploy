@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar renders correctly 1`] = `
+<div
+  className="NavBar"
+>
+  <h1
+    className="logoname"
+  >
+    Crypto Market
+  </h1>
+  <div
+    className="icons"
+  >
+    <img
+      alt="/"
+      className="img-money"
+      src="bull.png"
+    />
+    <img
+      alt="/"
+      className="img-money"
+      src="dollars.png"
+    />
+    <img
+      alt="/"
+      className="img-money"
+      src="oso.png"
+    />
+  </div>
+</div>
+`;

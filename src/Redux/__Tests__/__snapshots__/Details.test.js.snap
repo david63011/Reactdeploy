@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main renders correctly 1`] = `
+<div
+  className="big"
+>
+  <h1
+    className="dheader"
+  >
+    The Crypto Market
+  </h1>
+  <div
+    className="detailcontainer"
+  >
+    <img
+      alt="/"
+      className="img-money"
+      onClick={[Function]}
+      src="back2.png"
+    />
+    <div
+      className="imageheader"
+    >
+      <h1
+        className="detailname"
+      />
+      <img
+        alt="crypto"
+        className="detailimg"
+      />
+    </div>
+    <div
+      className="detailList"
+    >
+      <ul>
+        <li>
+          Ranking: 
+        </li>
+        <li>
+          The Current Price $: 
+        </li>
+        <li>
+          Market Cap: 
+        </li>
+        <li>
+          Volume: 
+        </li>
+        <li>
+          Total Supply: 
+        </li>
+        <li>
+          Available Supply: 
+        </li>
+        <li>
+          1 day price change: 
+        </li>
+        <li>
+          1 week price change: 
+        </li>
+      </ul>
+    </div>
+  </div>
+  ;
+</div>
+`;

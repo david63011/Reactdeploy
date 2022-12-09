@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main renders correctly 1`] = `
+<div>
+  <div
+    className="NavBar"
+  >
+    <h1
+      className="logoname"
+    >
+      Crypto Market
+    </h1>
+    <div
+      className="icons"
+    >
+      <img
+        alt="/"
+        className="img-money"
+        src="bull.png"
+      />
+      <img
+        alt="/"
+        className="img-money"
+        src="dollars.png"
+      />
+      <img
+        alt="/"
+        className="img-money"
+        src="oso.png"
+      />
+    </div>
+  </div>
+  <div
+    className="coins"
+  >
+    <div
+      className="coins-container"
+    >
+      <div
+        className="inputContainer"
+      >
+        <img
+          alt="/"
+          className="img-search"
+          src="search.png"
+        />
+        <input
+          className="textInput"
+          onChange={[Function]}
+          placeholder="Search"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
