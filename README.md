@@ -11,7 +11,9 @@ CSS
 # Live demo
 
 here is a live demo of the site
+https://david63011.github.io/Reactdeploy/
 
+and here is a video introduction
 https://www.loom.com/share/0a83e451b9db469e8c2fd6ac5f220fbf
 
 # 💻 Getting Started
